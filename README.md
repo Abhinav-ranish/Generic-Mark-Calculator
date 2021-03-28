@@ -2,7 +2,7 @@
 Made With 💖 and C++
 Only For Windows. Linux and Mac Soon !!.
 
-# Consider Donating - https://paypal.me/AbhinavRanish
+## Consider Donating - https://paypal.me/AbhinavRanish
 
 ## Installation :
 Link 1 - https://github.com/Abhinav-ranish/Blaze-Mark-Calculator
