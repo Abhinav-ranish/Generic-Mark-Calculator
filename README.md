@@ -13,6 +13,8 @@ Mega -https://mega.nz/file/HwAWkLJB
 
 Encryption Key - IKO0o-GG_jvxUHf7O-5pH76473g0o3Um5ezwpLQgv8s
 
+Join Mega - https://mega.nz/aff=ir6YlbWlUts
+
 Fosshub -
 
 #### > SETUP : ` Unzip and Run ExE`
