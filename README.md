@@ -54,9 +54,9 @@ Most Windows PC running Win 10 or Win 7
 Coming Soon
 
 ## Find Me on :
-[![Github] https://github.com/Abhinav-ranish
-[![Instagram] https://www.instagram.com/abhinav.ranish
-Discord - Abhinav#8885
+####  [![Github] https://github.com/Abhinav-ranish
+####  [![Instagram] https://www.instagram.com/abhinav.ranish
+####  [![Discord]  Abhinav#8885
 
 https://discord.gg/Nv3cJGD7
 
