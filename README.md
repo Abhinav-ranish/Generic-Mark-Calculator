@@ -5,7 +5,7 @@ Only For Windows. Linux and Mac Soon !!.
 ## Consider Donating - https://paypal.me/AbhinavRanish
 
 ## Installation :
-Link 1 - https://github.com/Abhinav-ranish/Blaze-Mark-Calculator
+Link 1 - https://github.com/Abhinav-ranish/Blaze-Mark-Calculator/archive/refs/tags/%23v0.1.2.zip
 
 Google Drive - https://drive.google.com/file/d/1chCdX8N3hdeTaySRctvuzGdiTTq3_UVb/view?usp=sharing
 
