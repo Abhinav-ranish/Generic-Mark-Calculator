@@ -6,10 +6,15 @@ Only For Windows. Linux and Mac Soon !!.
 
 ## Installation :
 Link 1 - https://github.com/Abhinav-ranish/Blaze-Mark-Calculator
+
 Google Drive - https://drive.google.com/file/d/1chCdX8N3hdeTaySRctvuzGdiTTq3_UVb/view?usp=sharing
+
 Mega -https://mega.nz/file/HwAWkLJB 
+
 Encryption Key - IKO0o-GG_jvxUHf7O-5pH76473g0o3Um5ezwpLQgv8s
+
 Fosshub -
+
 #### > SETUP : ` Unzip and Run ExE`
 
 
