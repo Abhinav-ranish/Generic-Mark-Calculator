@@ -19,7 +19,9 @@ Join Mega - https://mega.nz/aff=ir6YlbWlUts
 Fosshub -
 
 #### > SETUP : ` Unzip and Run ExE`
-
+https://github.com/Abhinav-ranish/Blaze-Mark-Calculator/blob/main/project%20files/1.PNG
+https://github.com/Abhinav-ranish/Blaze-Mark-Calculator/blob/main/project%20files/2.PNG
+https://github.com/Abhinav-ranish/Blaze-Mark-Calculator/blob/main/project%20files/3.PNG
 
 
 ### <<< Please dont copy without Credits >>>
