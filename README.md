@@ -3,6 +3,7 @@ Made With 💖 and C++
 Only For Windows. Linux and Mac Soon !!.
 
 ## Consider Donating - https://paypal.me/AbhinavRanish
+## OPEN SOURCE - https://abhinavranish.gq/blaze-calculator/
 
 ## Installation :
 #### PS Link 1 is always the latest. I reguraly update github link
