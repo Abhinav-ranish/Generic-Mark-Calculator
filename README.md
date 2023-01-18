@@ -2,7 +2,7 @@
 Made With 💖 and C++
 Only For Windows. Linux and Mac Soon !!.
 
-## Consider Donating - https://paypal.me/AbhinavRanish
+
 ## OPEN SOURCE - https://abhinavranish.gq/blaze-calculator/
 
 ## Installation :
@@ -51,7 +51,7 @@ Thats it :)
 
 
 
-
+### Consider Donating - https://paypal.me/AbhinavRanish
 ## Compatibility
 Most Windows PC running Win 10 or Win 7
 
